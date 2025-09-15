@@ -1,11 +1,15 @@
-# Hi, I'm Dryedson Silva! ! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Dryedson+Silva!+👋;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  </a>
+</div>
 
 ## About Me 🚀
 - 💻 Software Developer
-- 🎓 [Sua formação aqui]
+- 🎓 Análise e Desenvolvimento de Sistemas - Afya
 - 🌱 Always learning and evolving
 
-<!-- Links de contato -->
+
 <div>
   <a href="dryedson@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -60,11 +64,15 @@
 
 ## Contribuições 🌟
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dryedson/Dryedson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dryedson/Dryedson/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dryedson/Dryedson/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=react-dark&hide_border=true&show_icons=true" width="100%" alt="Contribution Graph" />
+  
+  ![Snake animation](https://github.com/Dryedson/Dryedson/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
-⭐️ From [Dryedson](https://github.com/Dryedson)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
+  ⭐️ From [Dryedson](https://github.com/Dryedson)
+</div>
