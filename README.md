@@ -43,6 +43,14 @@
       📅 Contributed to (last year): 0
     </div>
   </div>
+
+  <h3 style="color: #FF69B4;">Most Used Languages</h3>
+  <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+      <div style="width: 200px; height: 10px; background: linear-gradient(to right, #FF69B4 70%, #0D1117 30%); margin-left: 10px; border-radius: 5px;"></div>
+      <span style="margin-left: 10px; color: #00FFFF;">70%</span>
+    </div>
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
       <div style="width: 200px; height: 10px; background: linear-gradient(to right, #FF69B4 30%, #0D1117 70%); margin-left: 10px; border-radius: 5px;"></div>
@@ -51,10 +59,8 @@
   </div>
 </div>
 
+---
 <div align="center">
-  <div style="background: #0D1117; padding: 10px; border-radius: 6px; display: inline-block;">
-    <span style="color: #FF69B4;">PROFILE VIEWS</span>
-    <br/>
-    <span style="color: #00FFFF; font-size: 20px; font-weight: bold;">11</span>
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
+  ⭐️ From [Dryedson](https://github.com/Dryedson)
 </div>
