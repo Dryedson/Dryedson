@@ -29,35 +29,36 @@
 ## GitHub Stats ⭐
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">Achievements 🏆</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=Dryedson&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-      </td>
-    </tr>
-  </table>
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
+    <h3 style="color: #00b4d8;">Dryedson's GitHub Stats</h3>
+    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+      <div>
+        ⭐ Total Stars Earned: 0
+        <br>
+        📊 Total Commits (2023): 21
+        <br>
+        🔄 Total PRs: 1
+        <br>
+        ⚠️ Total Issues: 0
+        <br>
+        📅 Contributed to (last year): 0
+      </div>
+    </div>
+  </div>
 
-  <h3 align="center">Stats & Streaks 📊</h3>
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 6px;">
+    <h3 style="color: #00b4d8;">Activity Stats</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Dryedson&show_icons=true&theme=transparent&text_color=00ff00&title_color=ff00ff&icon_color=00ffff&hide_border=true" width="49%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff00ff&fire=00ffff&currStreakLabel=00ff00" width="49%" />
-
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&theme=transparent&text_color=00ff00&title_color=ff00ff&icon_color=00ffff&hide_border=true&layout=compact" width="35%" />
-
-  <br><br>
-  
-  <div style="margin-top: 20px;">
-    <h3 align="center">Contributions 🌟</h3>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=react&hide_border=true&bg_color=0D1117&title_color=ff00ff&color=00ff00&line=00ffff&point=ff00ff&area=true" width="98%" alt="Contribution Graph" />
+    <div style="margin-bottom: 20px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=react&hide_border=true&bg_color=0D1117&title_color=00b4d8&color=00b4d8&line=0077b6&point=48cae4&area=true" width="100%" alt="Contribution Graph" />
+    </div>
+  </div>
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dryedson&color=ff00ff&style=for-the-badge" alt="Profile views" />
+  <div style="background-color: #0D1117; padding: 10px; border-radius: 6px; display: inline-block;">
+    <span style="color: #00b4d8;">PROFILE VIEWS</span>
+    <img src="https://komarev.com/ghpvc/?username=Dryedson&color=00b4d8&style=flat-square" alt="Profile views" />
+  </div>
 </div>
