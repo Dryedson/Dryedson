@@ -65,14 +65,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dryedson&repo=seu-melhor-projeto&theme=radical)](https://github.com/Dryedson/seu-melhor-projeto)
 
-## Contribuições 🌟
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=react-dark&hide_border=true&show_icons=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
   ⭐️ From [Dryedson](https://github.com/Dryedson)
