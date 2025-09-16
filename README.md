@@ -15,7 +15,11 @@
 </div>
   </div>
 </div>
+
+<h2></h2>
+  <br>
 <img align="right" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif" width="400" alt="Snake Animation" />
+
 ## About Me 🚀
 - 💻 Software Developer
 - 🎓 Análise e Desenvolvimento de Sistemas - Afya
