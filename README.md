@@ -50,7 +50,7 @@
 <div align="center"> 
 <img src= "https://github-readme-stats.vercel.app/api?username=Dryedson&theme=radical" width="46%" alt="stats graph" />
 
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+
 </div>
 
 <br>
