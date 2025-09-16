@@ -17,11 +17,19 @@
 </div>
 <h2></h2>
 
-<img align="right" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif" width="400" alt="Snake Animation" />
-## About Me 🚀
-- 💻 Software Developer
-- 🎓 Análise e Desenvolvimento de Sistemas - Afya
-- 🌱 Always learning and evolving
+<div style="display: flex; align-items: flex-start; gap: 32px; flex-wrap: wrap; margin-bottom: 24px;">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif"
+       alt="Snake Animation"
+       style="width: 320px; max-width: 100%; height: auto; border-radius: 8px; background: #fff;" />
+  <div style="flex: 1; min-width: 220px;">
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 0.5em; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600;">About Me 🚀</h2>
+    <ul style="list-style: none; padding: 0; color: #333; font-size: 1.1em; font-family: 'Segoe UI', Arial, sans-serif;">
+      <li>💻 Software Developer</li>
+      <li>🎓 Análise e Desenvolvimento de Sistemas - Afya</li>
+      <li>🌱 Always learning and evolving</li>
+    </ul>
+  </div>
+</div>
 
 <h2></h2>
   <br>
