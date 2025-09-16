@@ -47,17 +47,12 @@
 
 <br><h2></h2><br>
 
-<div align="left"> 
+<div align="center"> 
 <img src= "https://github-readme-stats.vercel.app/api?username=Dryedson&theme=radical" width="46%" alt="stats graph" />
 
-
-<div align="right"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical" width="46%" alt="languages graph"/>
 </div>
 
-<br>
-
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
