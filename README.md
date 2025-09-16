@@ -50,7 +50,7 @@
 <div align="center"> 
 <img src= "https://github-readme-stats.vercel.app/api?username=Dryedson&theme=radical" width="46%" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical" width="46%" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical" width="50%" alt="languages graph"/>
 </div>
 
 
