@@ -4,15 +4,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolve" alt="Typing SVG" />
     </a>
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif" width="400" alt="Snake Animation" />
-  </div>
-</div>
-
-## About Me 🚀
-- 💻 Software Developer
-- 🎓 Análise e Desenvolvimento de Sistemas - Afya
-- 🌱 Always learning and evolving
-
-<!-- Links de contato -->
+    <!-- Links de contato -->
 <div>
   <a href="dryedson@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,10 +12,14 @@
   <a href="https://www.linkedin.com/in/dryedson/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Dryedson">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
+  </div>
+</div>
+
+## About Me 🚀
+- 💻 Software Developer
+- 🎓 Análise e Desenvolvimento de Sistemas - Afya
+- 🌱 Always learning and evolving
 
 <h2></h2>
   <br>
