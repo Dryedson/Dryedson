@@ -25,8 +25,6 @@
   </a>
 </div>
 
-## Activity 📊
-[![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=radical&hide_border=true)](https://github.com/Dryedson)
 <h2></h2>
   <br>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
