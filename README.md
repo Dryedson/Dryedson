@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Dryedson+Silva!+👋;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif" width="400" alt="Snake Animation" />
   </a>
 </div>
 
