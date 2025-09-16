@@ -61,10 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical" width="46%" alt="languages graph"/>
 </div>
 
-## Principais Projetos 🎯
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dryedson&repo=seu-melhor-projeto&theme=radical)](https://github.com/Dryedson/seu-melhor-projeto)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
   ⭐️ From [Dryedson](https://github.com/Dryedson)
