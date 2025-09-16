@@ -25,55 +25,36 @@
   </a>
 </div>
 
-## Activity 📊
-[![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=radical&hide_border=true)](https://github.com/Dryedson)
-<h2></h2>
-  <br>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-<div align="left">
-  <p>
-  <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,js,react" width="30%">
-  </p>  
-  <p>  
-  <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,swift" width="11%">   
-  </p> 
- </div> 
-
- <div align="center">
-  <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dryedson&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
- </div>
-
-<br><h2></h2><br>
-
-<div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=Dryedson&theme=radical" width="46%" alt="stats graph" />
-
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
-</div>
-
-<br>
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical" width="46%" alt="languages graph"/>
-</div>
-
-## Principais Projetos 🎯
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dryedson&repo=seu-melhor-projeto&theme=radical)](https://github.com/Dryedson/seu-melhor-projeto)
-
-## Contribuições 🌟
+## GitHub Stats ⭐
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=react-dark&hide_border=true&show_icons=true" width="100%" alt="Contribution Graph" />
+  <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <h3 style="color: #FF69B4;">Dryedson Silva's GitHub Stats</h3>
+    
+    <div style="text-align: left; color: #00FFFF;">
+      ⭐ Total Stars Earned: 0
+      <br/>
+      🕒 Total Commits (2023): 21
+      <br/>
+      🔄 Total PRs: 1
+      <br/>
+      ⚠️ Total Issues: 0
+      <br/>
+      📅 Contributed to (last year): 0
+    </div>
+  </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <div style="width: 200px; height: 10px; background: linear-gradient(to right, #FF69B4 30%, #0D1117 70%); margin-left: 10px; border-radius: 5px;"></div>
+      <span style="margin-left: 10px; color: #00FFFF;">30%</span>
+    </div>
+  </div>
 </div>
 
----
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dryedson&color=green" alt="Profile views" />
-  ⭐️ From [Dryedson](https://github.com/Dryedson)
+  <div style="background: #0D1117; padding: 10px; border-radius: 6px; display: inline-block;">
+    <span style="color: #FF69B4;">PROFILE VIEWS</span>
+    <br/>
+    <span style="color: #00FFFF; font-size: 20px; font-weight: bold;">11</span>
+  </div>
 </div>
