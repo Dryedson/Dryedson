@@ -6,7 +6,7 @@
 
   <!-- Animação de digitação com a URL funcional (demolab.com) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Dryedson!;Desenvolvedor+de+Software+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Dryedson!;Desenvolvedor+de+Software+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br><br>
