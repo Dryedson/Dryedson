@@ -86,13 +86,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1.5" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- TROFÉUS — GitHub Profile Trophy                                        -->
-<!-- Nota: pode sofrer rate limiting na instância pública                   -->
+<!-- RESUMO DO PERFIL — github-profile-summary-cards (mais confiável)       -->
+<!-- Substitui o Trophy que sofria rate limiting constante                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-  <h2>🏆 Troféus</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dryedson&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <h2>🏆 Resumo do Perfil</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dryedson&theme=radical" width="95%" alt="Profile Details" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dryedson&theme=radical" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dryedson&theme=radical" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dryedson&theme=radical" width="32%" alt="Stats" />
 
 </div>
 
@@ -103,24 +109,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1.5" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ESTATÍSTICAS — Stats + Top Langs + Streak                              -->
-<!-- Tema "radical" consistente em todos os cards                           -->
-<!-- show_icons=true adicionado para visual mais rico                       -->
+<!-- ESTATÍSTICAS — Streak + Summary Cards                                  -->
+<!-- Streak migrado para demolab.com (herokuapp foi descontinuado)          -->
+<!-- Stats usa github-profile-summary-cards (mais estável que readme-stats) -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
   <h2>📊 GitHub Stats</h2>
 
-  <!-- Stats gerais do perfil -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dryedson&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dryedson&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
+  <!-- Streak Stats — URL corrigida: herokuapp.com → demolab.com -->
+  <img src="https://streak-stats.demolab.com/?user=Dryedson&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 
   <br><br>
 
-  <!-- Streak Stats — substitui a snake animation que não funcionava -->
-  <!-- A snake requer GitHub Action própria; streak funciona direto -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dryedson&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+  <!-- Cards de contribuição por horário e produtividade -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dryedson&theme=radical&utcOffset=-3" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dryedson&theme=radical" width="49%" alt="Stats Card" />
 
 </div>
 
@@ -136,7 +140,7 @@
 <div align="center">
 
   <h2>📈 Gráfico de Contribuições</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&theme=rogue&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dryedson&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true&area_color=fe428e&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
